@@ -1,0 +1,13 @@
+
+#fixed-bottom{
+    /*Para fijar la posicion de la capa*/
+    position: fixed;
+    /** colocacion de la capa */
+    bottom: 0;
+    right: 125px;
+
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    background-color: red;
+}
